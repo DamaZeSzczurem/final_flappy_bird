@@ -2,8 +2,8 @@ var mainState = {
 
 	preload: function() {
 
-		game.load.image('bird', 'assets/bird.png'); 
-		game.load.image('pipe', 'assets/pipe.png');
+		game.load.image('bird', 'bird.png'); 
+		game.load.image('pipe', 'pipe.png');
 		//game.load.image('cloud','assets/chmura.png')
 
 	//tutaj obrazki	
