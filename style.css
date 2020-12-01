@@ -1,3 +1,19 @@
 body{
-	background-color: #E6E6FA;
+	background-color: #214478ff;
+}
+
+h2{
+	font-family: 'VT323', monospace;
+	font-size: 5rem;
+	text-align: center;
+}
+
+p{
+	font-family: 'VT323', monospace;
+	text-align: center;
+	margin-top: 5vh;
+}
+
+iframe{
+	padding: 0;
 }
